@@ -1,8 +1,4 @@
 {
-count: 48,
-next: null,
-previous: null,
-results: {
 type: "FeatureCollection",
 features: [
 {
@@ -534,5 +530,4 @@ luas: " 86.31 Ha"
 }
 }
 ]
-}
 }
